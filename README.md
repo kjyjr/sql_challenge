@@ -1,6 +1,6 @@
 # sql_challenge
 
-##Background
+Background
 
 This assignment served as a fictional research project on people who were employed by the company "Pewlett Hackard" during the 1980s and 1990s. Data on the employees, including their managers, was contained in six CSV files. The data consisted of employee titles and title ids; employee names and sexes, dates of birth and hire dates; company department names and numbers; and salaries.
 
@@ -8,15 +8,15 @@ The project involved the design of six tables to hold data from the CSV files on
 
 In brief, the areas of data modeling, data engineering, and data analysis were covered in this exercise.
 
-##Data Modeling
+Data Modeling
 
 Based on the table schema, an Entity Relationship Diagram was sketched using the QuickDBD tool available at https://www.quickdatabasediagrams.com.
 
-##Data Engineering
+Data Engineering
 
 The table schema constructed for the six tables included specifications of data types, primary keys, foreign keys, and other constraints.
 
-##Data Analysis
+Data Analysis
 
 Data analysis satisfied the following areas of inquiry:
     1 - employee number, last name, first name, sex, and salary of each employee
